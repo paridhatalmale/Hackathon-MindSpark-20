@@ -977,7 +977,7 @@ a.button7:active{
 .portfolio-details .portfolio-description h2 {
   width: 50%;
   font-size: 26px;
-  font-weight: 700;
+  font-weight: 900;
   margin-bottom: 20px;
 }
 
@@ -1018,7 +1018,7 @@ a.button7:active{
 .testimonial-box .author {
   color: #fff;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 800;
   margin: 1rem 0;
   display: block;
   font-size: 1.4rem;

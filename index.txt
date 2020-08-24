@@ -74,8 +74,8 @@
         <div class="container">
           <!--<p class="display-6 color-d">Hello, world!</p>-->
           <h1 class="intro-title mb-4">HACKATHON 5.0</h1>
-          <p class="intro-subtitle"><span class="text-slider-items">You believe in Coding,Get Ready To,Show your Skills</span><strong class="text-slider"></strong></p>
-          <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
+          <p class="intro-subtitle"><span class="text-slider-items">You believe in Coding,Get Ready To,Show your Skills!</span><strong class="text-slider"></strong></p>
+           <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">REGISTER</a></p> 
         </div>
       </div>
     </div>
@@ -89,24 +89,8 @@
         <div class="row">
           <div class="col-sm-12">
             <div class="box-shadow-full">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="row">
-                    <div class="col-sm-6 col-md-5">
-                      <div class="about-img">
-                        <img src="assets/img/testimonial-2.png" class="img-fluid rounded b-shadow-a" alt="">
-                      </div>
-                    </div>
-                    <div class="col-sm-6 col-md-7">
-                      <div class="about-info">
-                        <center><br><br><a href="#" class="button7" style="background-color:#03a1fc; color:#000000"><b>REGISTER</b></a></center>
-                        
-                      </div>
-                    </div>
-                  </div>
-                  
-                </div>
-                <div class="col-md-6">
+              
+                
                   <div class="about-me pt-4 pt-md-0">
                     <div class="title-box-2">
                       <h5 class="title-left">
@@ -114,15 +98,14 @@
                       </h5>
                     </div>
                     <p class="lead">
-                      <u>Hackathon will be conducted on 21st September 2020 at 2:30pm</u>
+                      <b>Hackathon will be conducted on 21st September 2020 at 2:30pm</b><br>
                     </p>
                     <p class="lead">
-                      <center><h2>OBJECTIVE</h2></center>
-                      This is a 24--hour hackathon to code, strategize and innovate some ingenious solutions to the most sought out real-life problem statements.
+                     <h2>OBJECTIVE:</h2><br>
+                      <b>This is a 24-hour hackathon to code, strategize and innovate some ingenious solutions to the most sought out real-life problem statements.</b>
                     </p>
 
-                  </div>
-                </div>
+                  
               </div>
             </div>
           </div>
@@ -153,7 +136,7 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <span class="ico-circle"><i class="ion-cash-sharp"></i></span>
+                <span class="ico-circle"><i class="ion-cash"></i></span>
               </div>
               <div class="service-content">
                 <h2 class="s-title">Fees</h2>
@@ -319,17 +302,17 @@
               <div class="testimonial-box">
                 <div class="author-test">
                   
-                  <span class="author"><h2>RULES</h2></span>
+                  <span class="author"><h2><u>RULES</u></h2></span>
                 </div>
                 <div class="content-test">
                   <p class="description lead">
-                    1: Teams will be given 3 problem statements to choose from and develop a solution in the 24-hour time period. The solution may consist of a desktop app, web app, mobile app, data visualization or a design prototype.<br><br>
-2: Participants should develop an application of their choice to best fit the solution of the given problem statement. Mentors will be present at the location to help the teams and to check on what the teams are developing for some period of the Hackathon.<br><br>
-3: Every team will have to explain their product individually to our mentors roaming around and will have to give a final presentation to our judging panel, out of which the winner will be chosen.<br><br>
-4: Every team should bring their own electronics appliances they may require, e.g. laptops, mouse, pen-drives, etc. The use of different types of hardware and software is encouraged throughout the event. A checklist will be sent to the participants a few weeks before the event.<br><br>
-5: Participants must bring their registration receipts, college ID and various things which would be mentioned in the checklist, while coming to event.<br><br>
-6: Rules may be changed without prior intimation. Participants are requested to check the official MindSpark'19 website (www.mind-spark.org) regularly for updates.<br><br>
-7: Winners will be chosen solely on discretion. In case of any disputes, the decision of the organizers and the judges will be final and binding to all.
+                    <b>1: Teams will be given 3 problem statements to choose from and develop a solution in the 24-hour time period. The solution may consist of a desktop app, web app, mobile app, data visualization or a design prototype.</b><br><br>
+<b>2: Participants should develop an application of their choice to best fit the solution of the given problem statement. Mentors will be present at the location to help the teams and to check on what the teams are developing for some period of the Hackathon.</b><br><br>
+<b>3: Every team will have to explain their product individually to our mentors roaming around and will have to give a final presentation to our judging panel, out of which the winner will be chosen.</b><br><br>
+<b>4: Every team should bring their own electronics appliances they may require, e.g. laptops, mouse, pen-drives, etc. The use of different types of hardware and software is encouraged throughout the event. A checklist will be sent to the participants a few weeks before the event.</b><br><br>
+<b>5: Participants must bring their registration receipts, college ID and various things which would be mentioned in the checklist, while coming to event.</b><br><br>
+<b>6: Rules may be changed without prior intimation. Participants are requested to check the official MindSpark'19 website (www.mind-spark.org) regularly for updates.</b><br><br>
+<b>7: Winners will be chosen solely on discretion. In case of any disputes, the decision of the organizers and the judges will be final and binding to all.</b>
                   </p>
 
                 </div>
@@ -337,13 +320,13 @@
               <div class="testimonial-box">
                 <div class="author-test">
                   
-                  <span class="author"><h2>STRUCTURE</h2></span>
+                  <span class="author"><h2><b>STRUCTURE</b></h2></span>
                 </div>
                 <div class="content-test">
                   <p class="description lead">
-                    <h3>Problem Statement:</h3><br>The problem statements will be released 2 weeks before the day of the hack on 9th Sept 2019. There will be 3 problem statements for the team to choose from.<br><br>
-                    <h3>Networking Session:</h3><br>Befor the hackathon starts, there will be a networking session for the participants to get to know their fellow comrades and get accustomed to the environment. Participants are encouraged to make the most of this time.<br><br>
-                    <h3>24-Hour Hackathon</h3><br>All the participating teams will work round-the-clock on their problem statements for a period of 24 hours, starting at 3pm on 21st sept. At the end of the allotted time, the teams will give the final presentations in-front of the judges.
+                    <h3><b>Problem Statement:</b></h3><br><b>The problem statements will be released 2 weeks before the day of the hack on 9th Sept 2019. There will be 3 problem statements for the team to choose from.</b><br><br>
+                    <h3><b>Networking Session:</b></h3><br><b>Befor the hackathon starts, there will be a networking session for the participants to get to know their fellow comrades and get accustomed to the environment. Participants are encouraged to make the most of this time.</b><br><br>
+                    <h3><b>24-Hour Hackathon</b></h3><br><b>All the participating teams will work round-the-clock on their problem statements for a period of 24 hours, starting at 3pm on 21st sept. At the end of the allotted time, the teams will give the final presentations in-front of the judges.</b>
                   </p>
 
                 </div>
@@ -514,3 +497,15 @@ A. Yes, individual participation will be allowed but it is advised that at least
 </body>
 
 </html>
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
