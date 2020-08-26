@@ -71,7 +71,9 @@
     <div class="overlay-itro"></div>
     <div class="intro-content display-table">
       <div class="table-cell">
-        <div class="container">
+        <div class="container" data-aos="fade-down"
+     data-aos-easing="linear"
+     data-aos-duration="1500">
           <!--<p class="display-6 color-d">Hello, world!</p>-->
           <h1 class="intro-title mb-4">HACKATHON 5.0</h1>
           <p class="intro-subtitle"><span class="text-slider-items">You believe in Coding,Get Ready To,Show your Skills!</span><strong class="text-slider"></strong></p>
@@ -89,7 +91,7 @@
         <div class="row">
           <div class="col-sm-12">
            
-            <div class="box-shadow-full" data-aos="fade-up">
+            <div class="box-shadow-full" data-aos="fade-right">
               
                 
                   <div class="about-me pt-4 pt-md-0">
@@ -119,7 +121,7 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-12">
-            <div class="title-box text-center">
+            <div class="title-box text-center" data-aos="fade-up">
               <h3 class="title-a">
                 DATES OF EVENT
               </h3>
@@ -135,7 +137,7 @@
             
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box" data-aos="zoom-in">
               <div class="service-ico">
                 <span class="ico-circle"><i class="ion-cash"></i></span>
               </div>
@@ -170,7 +172,7 @@
           </div>
           <div class="col-sm-3 col-lg-3">
             <div class="counter-box pt-4 pt-md-0">
-              <div class="counter-ico">
+              <div class="counter-ico" data-aos="zoom-in">
                 <span class="ico-circle"><i class="ion-ios-calendar-outline"></i></span>
               </div>
               <div class="counter-num">
@@ -181,7 +183,7 @@
           </div>
           <div class="col-sm-3 col-lg-3">
             <div class="counter-box pt-4 pt-md-0">
-              <div class="counter-ico">
+              <div class="counter-ico" data-aos="zoom-in">
                 <span class="ico-circle"><i class="ion-ios-people"></i></span>
               </div>
               <div class="counter-num">
@@ -207,7 +209,7 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-12">
-            <div class="title-box text-center">
+            <div class="title-box text-center" data-aos="fade-up">
               <h3 class="title-a">
                 Problem Statements
               </h3>
@@ -220,7 +222,7 @@
         </div>
         <div class="row">
           <div class="col-md-4">
-            <div class="work-box">
+            <div class="work-box" data-aos="zoom-in">
               <a href="assets/img/work-1.jpg" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
                   <img src="assets/img/work-1.jpg" alt="" class="img-fluid">
@@ -242,7 +244,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <div class="work-box">
+            <div class="work-box" data-aos="zoom-in">
               <a href="assets/img/work-2.jpg" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
                   <img src="assets/img/work-2.jpg" alt="" class="img-fluid">
@@ -264,7 +266,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <div class="work-box">
+            <div class="work-box" data-aos="zoom-in">
               <a href="assets/img/work-3.jpg" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
                   <img src="assets/img/work-3.jpg" alt="" class="img-fluid">
@@ -301,11 +303,11 @@
           <div class="col-md-12">
             <div id="testimonial-mf" class="owl-carousel owl-theme">
               <div class="testimonial-box">
-                <div class="author-test">
+                <div class="author-test" data-aos="fade-up">
                   
                   <span class="author"><h1><b><u>RULES</u></b></h1></span>
                 </div>
-                <div class="content-test">
+                <div class="content-test" data-aos="fade-up">
                   <p class="description lead">
                     <b>1: Teams will be given 3 problem statements to choose from and develop a solution in the 24-hour time period. The solution may consist of a desktop app, web app, mobile app, data visualization or a design prototype.</b><br><br>
 <b>2: Participants should develop an application of their choice to best fit the solution of the given problem statement. Mentors will be present at the location to help the teams and to check on what the teams are developing for some period of the Hackathon.</b><br><br>
@@ -319,11 +321,11 @@
                 </div>
               </div>
               <div class="testimonial-box">
-                <div class="author-test">
+                <div class="author-test" data-aos="fade-up">
                   
                   <span class="author"><h1><b><u>STRUCTURE</u></b></h1></span>
                 </div>
-                <div class="content-test">
+                <div class="content-test" data-aos="fade-up">
                   <p class="description lead">
                     <h3><b>Problem Statement:</b></h3><br><b>The problem statements will be released 2 weeks before the day of the hack on 9th Sept 2019. There will be 3 problem statements for the team to choose from.</b><br><br>
                     <h3><b>Networking Session:</b></h3><br><b>Befor the hackathon starts, there will be a networking session for the participants to get to know their fellow comrades and get accustomed to the environment. Participants are encouraged to make the most of this time.</b><br><br>
@@ -342,12 +344,12 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-12">
-            <div class="box-shadow-full">
+            <div class="box-shadow-full" data-aos="flip-up">
               
                 
                 
                   <div class="about-me pt-4 pt-md-0">
-                    <div class="title-box-2">
+                    <div class="title-box-2" data-aos="fade-up">
                       <h5 class="title-left">
                         FAQs:
                       </h5>
@@ -406,7 +408,7 @@ A. Yes, individual participation will be allowed but it is advised that at least
         <div class="row">
           <div class="col-sm-12">
             <div class="contact-mf">
-              <div id="contact" class="box-shadow-full">
+              <div id="contact" class="box-shadow-full" data-aos="fade-left">
                 <div class="row">
                   <div class="col-md-6">
                     <div class="title-box-2">
@@ -414,7 +416,9 @@ A. Yes, individual participation will be allowed but it is advised that at least
                         Contact Us
                       </h5>
                     </div>
-                    <div>
+                    <div data-aos="fade-down"
+     data-aos-easing="linear"
+     data-aos-duration="1500">
                       <p>
                         <h2>Event Heads</h2><br>Shikhar Bhatt<br>
                         <ul class="list-ico"><li><span class="ion-ios-telephone"></span>+91 88067 34932</li></ul>
@@ -428,7 +432,9 @@ A. Yes, individual participation will be allowed but it is advised that at least
                         About Us
                       </h5>
                     </div>
-                    <div class="more-info">
+                    <div class="more-info" data-aos="fade-down"
+     data-aos-easing="linear"
+     data-aos-duration="1500">
                       <p class="lead">
                         MindSpark is the national level, annual technical festival of College of Engineering, Pune.
                       </p>
@@ -495,7 +501,9 @@ A. Yes, individual participation will be allowed but it is advised that at least
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
   <script>
-  AOS.init();
+  AOS.init({
+duration: 1000,
+});
 </script>
 </body>
 
