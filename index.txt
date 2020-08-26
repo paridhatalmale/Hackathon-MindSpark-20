@@ -45,7 +45,7 @@
       <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link js-scroll active" href="Hackathon code.html">Home</a>
+            <a class="nav-link js-scroll active" href="index.html">Home</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll" href="#about">About</a>
@@ -302,7 +302,7 @@
               <div class="testimonial-box">
                 <div class="author-test">
                   
-                  <span class="author"><h2><u>RULES</u></h2></span>
+                  <span class="author"><h1><b><u>RULES</u></b></h1></span>
                 </div>
                 <div class="content-test">
                   <p class="description lead">
@@ -320,7 +320,7 @@
               <div class="testimonial-box">
                 <div class="author-test">
                   
-                  <span class="author"><h2><b>STRUCTURE</b></h2></span>
+                  <span class="author"><h1><b><u>STRUCTURE</u></b></h1></span>
                 </div>
                 <div class="content-test">
                   <p class="description lead">
@@ -497,15 +497,3 @@ A. Yes, individual participation will be allowed but it is advised that at least
 </body>
 
 </html>
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
